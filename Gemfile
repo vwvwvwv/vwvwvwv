@@ -1,0 +1,6 @@
+source 'https://rubygems.org/'
+gem 'sass'
+gem 'jekyll'
+gem 'haml'
+gem 'rake'
+gem 'kramdown'
